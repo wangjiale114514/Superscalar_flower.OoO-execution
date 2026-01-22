@@ -2,7 +2,7 @@
 
 这是一个使用Verilog实现的RISC-V RV32I指令集超标量乱序执行处理器，
 这个版本是我在
-- [**StampFlow-11E_cpu**]([https://github.com/你的用户名/另一个项目](https://github.com/wangjiale114514/StampFlow-11E_cpu))：这个项目就是他的1.0形态感兴趣的可以看一下
+- [**StampFlow-11E_cpu**]([https://github.com/wangjiale114514/StampFlow-11E_cpu])：这个项目就是他的1.0形态感兴趣的可以看一下
 在这个项目中的2.0那个文件夹中有部分过程代码也可以看一下
 目前这个项目暂未完全完工进行测试，不过已经比较完善了，id阶段还没有进行操作数分发和RAT快照,LSU等等还未实现
 目前只支持机器态
